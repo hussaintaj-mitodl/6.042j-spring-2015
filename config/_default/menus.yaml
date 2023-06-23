@@ -5,9 +5,9 @@ leftnav:
   weight: 10
 - identifier: c6d67c43-7905-4bde-b02e-4acfe7773dd4
   name: Syllabus
-  pageRef: /pages/syllabus
+  url: /pages/syllabus
   weight: 20
 - identifier: 9183899c-2a32-4f59-bd37-283eb54b3b20
   name: Online Textbook
-  pageRef: /pages/readings
+  url: /pages/readings
   weight: 30
