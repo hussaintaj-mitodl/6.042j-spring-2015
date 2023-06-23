@@ -1,0 +1,13 @@
+leftnav:
+- identifier: external-1041217656-1648689329700
+  name: Online Publication
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about
+  weight: 10
+- identifier: c6d67c43-7905-4bde-b02e-4acfe7773dd4
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 20
+- identifier: 9183899c-2a32-4f59-bd37-283eb54b3b20
+  name: Online Textbook
+  url: /pages/readings
+  weight: 30

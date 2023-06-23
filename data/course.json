@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "98ac3637-077b-4114-a6e7-bc8eb998e2e3",
+      "75c777df-d9cb-ecea-6250-b2fe1336797a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ea9f7e23-2ef1-4276-b6fd-7c3a17ba57af",
+    "website": "mathematics-for-computer-science"
+  },
+  "course_title": "Mathematics for Computer Science",
+  "course_description": "This subject offers an interactive introduction to discrete mathematics oriented toward computer science and engineering. The subject coverage divides roughly into thirds:\n\n1. Fundamental concepts of mathematics: Definitions, proofs, sets, functions, relations.\n2. Discrete structures: graphs, state machines, modular arithmetic, counting.\n3. Discrete probability theory.\n\nOn completion of 6.042J, students will be able to explain and apply the basic methods of discrete (noncontinuous) mathematics in computer science. They will be able to use these methods in subsequent courses in the design and analysis of algorithms, computability theory, software engineering, and computer systems.\n\nThis course is part of the [Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library), which is free to use.\u00a0You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.",
+  "department_numbers": [
+    "6",
+    "18"
+  ],
+  "extra_course_numbers": "18.062J",
+  "primary_course_number": "6.042J",
+  "course_image_thumbnail": {
+    "content": "52d44bad-9e3b-4147-8bfb-c999c5937513",
+    "website": "mathematics-for-computer-science"
+  },
+  "learning_resource_types": [
+    "Online Textbook",
+    "Lecture Videos",
+    "Lecture Notes",
+    "Problem Sets",
+    "Exams"
+  ],
+  "site_uid": "f1644e3d-e113-4bcb-85ad-53b17be68e6c",
+  "site_short_id": "6.042j-spring-2015"
+}
