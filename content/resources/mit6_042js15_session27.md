@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session27.pdf
+file: /courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session27.pdf
 file_size: 323737
 file_type: application/pdf
 image_metadata:
